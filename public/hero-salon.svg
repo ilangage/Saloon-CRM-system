@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500" role="img" aria-label="Modern beauty salon placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff7ef"/><stop offset="0.5" stop-color="#f9d7d8"/><stop offset="1" stop-color="#6f263d"/></linearGradient>
+    <radialGradient id="r" cx="35%" cy="30%" r="55%"><stop offset="0" stop-color="#ffffff" stop-opacity="0.9"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#g)"/>
+  <rect width="1200" height="1500" fill="url(#r)"/>
+  <circle cx="850" cy="330" r="170" fill="#d4a857" opacity="0.35"/>
+  <rect x="150" y="920" width="900" height="180" rx="60" fill="#fff" opacity="0.45"/>
+  <rect x="250" y="530" width="700" height="520" rx="80" fill="#201a1e" opacity="0.12"/>
+  <path d="M300 870 C420 760 520 760 610 860 C730 730 850 750 940 880" fill="none" stroke="#6f263d" stroke-width="28" stroke-linecap="round" opacity="0.55"/>
+  <text x="600" y="1260" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="700" fill="#6f263d">Salon Image</text>
+  <text x="600" y="1340" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#201a1e" opacity="0.7">Replace with real salon photo</text>
+</svg>

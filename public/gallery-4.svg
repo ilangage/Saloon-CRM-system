@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100" role="img" aria-label="Salon interior placeholder">
+  <rect width="900" height="1100" fill="#fff7ef"/>
+  <rect x="90" y="180" width="720" height="500" rx="70" fill="#f9d7d8"/>
+  <rect x="180" y="300" width="540" height="240" rx="35" fill="#ffffff" opacity="0.75"/>
+  <circle cx="250" cy="760" r="80" fill="#6f263d" opacity="0.5"/>
+  <circle cx="450" cy="760" r="80" fill="#b76e79" opacity="0.5"/>
+  <circle cx="650" cy="760" r="80" fill="#d4a857" opacity="0.6"/>
+  <text x="450" y="950" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#6f263d">Salon</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100" role="img" aria-label="Nail gallery placeholder">
+  <rect width="900" height="1100" fill="#f9d7d8"/>
+  <rect x="120" y="160" width="660" height="620" rx="80" fill="#fff7ef" opacity="0.75"/>
+  <path d="M220 620 C330 410 470 400 575 610 C640 510 710 515 760 625" fill="none" stroke="#6f263d" stroke-width="30" stroke-linecap="round"/>
+  <text x="450" y="920" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#6f263d">Nails</text>
+</svg>
